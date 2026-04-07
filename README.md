@@ -24,5 +24,5 @@ Your agent will be running commands, but it does not mean you can't play with it
 
 ### Example 2
 > playwright-cli open https://www.howdens.com/kitchens --headed
-> playwright-cli click 'button#onetrust-accept-btn-handler'
-> playwright-cli snapshot 
+    playwright-cli click 'button#onetrust-accept-btn-handler'
+    playwright-cli snapshot 
