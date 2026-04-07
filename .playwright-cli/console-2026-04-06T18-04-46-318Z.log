@@ -1,0 +1,49 @@
+[  173950ms] [LOG] GTM PTag v1.4; tagId: 2614341617583 @ https://www.googletagmanager.com/gtm.js?id=GTM-W327B49&gtm_auth=Q8lkwku7ZkkDrCYSgeQulQ&gtm_preview=env-17&gtm_cookies_win=x:1042
+[  173952ms] [LOG] GTM PTag v1.4; tagId: 2614341617583 @ https://www.googletagmanager.com/gtm.js?id=GTM-W327B49&gtm_auth=Q8lkwku7ZkkDrCYSgeQulQ&gtm_preview=env-17&gtm_cookies_win=x:1042
+[  174064ms] [LOG] Firing Pinterest event: pagevisit @ https://www.googletagmanager.com/gtm.js?id=GTM-W327B49&gtm_auth=Q8lkwku7ZkkDrCYSgeQulQ&gtm_preview=env-17&gtm_cookies_win=x:1042
+[  174064ms] [LOG] Event Data:{"np":"gtm","gtm_version":"legacy"} @ https://www.googletagmanager.com/gtm.js?id=GTM-W327B49&gtm_auth=Q8lkwku7ZkkDrCYSgeQulQ&gtm_preview=env-17&gtm_cookies_win=x:1042
+[  174584ms] [ERROR] Attestation check for Attribution Reporting on https://www.facebook.com failed. @ https://www.howdens.com/:0
+[  338069ms] [ERROR] ajax request error @ https://www.howdens.com/Scripts/main.compiled.904f8e89.js:1
+[  338072ms] [ERROR] ajax request error @ https://www.howdens.com/Scripts/main.compiled.904f8e89.js:1
+[  541064ms] [LOG] GTM PTag v1.4; tagId: 2614341617583 @ https://www.googletagmanager.com/gtm.js?id=GTM-W327B49&gtm_auth=Q8lkwku7ZkkDrCYSgeQulQ&gtm_preview=env-17&gtm_cookies_win=x:1041
+[  541066ms] [LOG] GTM PTag v1.4; tagId: 2614341617583 @ https://www.googletagmanager.com/gtm.js?id=GTM-W327B49&gtm_auth=Q8lkwku7ZkkDrCYSgeQulQ&gtm_preview=env-17&gtm_cookies_win=x:1041
+[  541125ms] [LOG] Firing Pinterest event: pagevisit @ https://www.googletagmanager.com/gtm.js?id=GTM-W327B49&gtm_auth=Q8lkwku7ZkkDrCYSgeQulQ&gtm_preview=env-17&gtm_cookies_win=x:1041
+[  541125ms] [LOG] Event Data:{"np":"gtm","gtm_version":"legacy"} @ https://www.googletagmanager.com/gtm.js?id=GTM-W327B49&gtm_auth=Q8lkwku7ZkkDrCYSgeQulQ&gtm_preview=env-17&gtm_cookies_win=x:1041
+[  541621ms] [ERROR] Attestation check for Attribution Reporting on https://www.facebook.com failed. @ https://www.howdens.com/kitchens/fitted-kitchens/greenwich/greenwich-marine-blue?u_s=blue:0
+[  542228ms] TypeError: Cannot read properties of undefined (reading 'pixel')
+    at <anonymous>:1:4
+    at https://www.googletagmanager.com/gtm.js?id=GTM-W327B49&gtm_auth=Q8lkwku7ZkkDrCYSgeQulQ&gtm_preview=env-17&gtm_cookies_win=x:1037:429
+    at ZQ (https://www.googletagmanager.com/gtm.js?id=GTM-W327B49&gtm_auth=Q8lkwku7ZkkDrCYSgeQulQ&gtm_preview=env-17&gtm_cookies_win=x:1039:31)
+    at Ld.YQ (https://www.googletagmanager.com/gtm.js?id=GTM-W327B49&gtm_auth=Q8lkwku7ZkkDrCYSgeQulQ&gtm_preview=env-17&gtm_cookies_win=x:1036:92)
+    at Ld.<anonymous> (https://www.googletagmanager.com/gtm.js?id=GTM-W327B49&gtm_auth=Q8lkwku7ZkkDrCYSgeQulQ&gtm_preview=env-17&gtm_cookies_win=x:426:405)
+    at k.apply (https://www.googletagmanager.com/gtm.js?id=GTM-W327B49&gtm_auth=Q8lkwku7ZkkDrCYSgeQulQ&gtm_preview=env-17&gtm_cookies_win=x:350:466)
+    at gb (https://www.googletagmanager.com/gtm.js?id=GTM-W327B49&gtm_auth=Q8lkwku7ZkkDrCYSgeQulQ&gtm_preview=env-17&gtm_cookies_win=x:314:719)
+    at fb (https://www.googletagmanager.com/gtm.js?id=GTM-W327B49&gtm_auth=Q8lkwku7ZkkDrCYSgeQulQ&gtm_preview=env-17&gtm_cookies_win=x:314:470)
+    at Ld.<anonymous> (https://www.googletagmanager.com/gtm.js?id=GTM-W327B49&gtm_auth=Q8lkwku7ZkkDrCYSgeQulQ&gtm_preview=env-17&gtm_cookies_win=x:374:473)
+    at k.apply (https://www.googletagmanager.com/gtm.js?id=GTM-W327B49&gtm_auth=Q8lkwku7ZkkDrCYSgeQulQ&gtm_preview=env-17&gtm_cookies_win=x:350:466)
+[  545549ms] [LOG] GTM PTag v1.4; tagId: 2614341617583 @ https://www.googletagmanager.com/gtm.js?id=GTM-W327B49&gtm_auth=Q8lkwku7ZkkDrCYSgeQulQ&gtm_preview=env-17&gtm_cookies_win=x:1042
+[  545550ms] [LOG] GTM PTag v1.4; tagId: 2614341617583 @ https://www.googletagmanager.com/gtm.js?id=GTM-W327B49&gtm_auth=Q8lkwku7ZkkDrCYSgeQulQ&gtm_preview=env-17&gtm_cookies_win=x:1042
+[  545709ms] [LOG] Firing Pinterest event: pagevisit @ https://www.googletagmanager.com/gtm.js?id=GTM-W327B49&gtm_auth=Q8lkwku7ZkkDrCYSgeQulQ&gtm_preview=env-17&gtm_cookies_win=x:1042
+[  545709ms] [LOG] Event Data:{"np":"gtm","gtm_version":"legacy"} @ https://www.googletagmanager.com/gtm.js?id=GTM-W327B49&gtm_auth=Q8lkwku7ZkkDrCYSgeQulQ&gtm_preview=env-17&gtm_cookies_win=x:1042
+[  546193ms] [ERROR] Attestation check for Attribution Reporting on https://www.facebook.com failed. @ https://www.howdens.com/:0
+[  550606ms] [LOG] GTM PTag v1.4; tagId: 2614341617583 @ https://www.googletagmanager.com/gtm.js?id=GTM-W327B49&gtm_auth=Q8lkwku7ZkkDrCYSgeQulQ&gtm_preview=env-17&gtm_cookies_win=x:1041
+[  550607ms] [LOG] GTM PTag v1.4; tagId: 2614341617583 @ https://www.googletagmanager.com/gtm.js?id=GTM-W327B49&gtm_auth=Q8lkwku7ZkkDrCYSgeQulQ&gtm_preview=env-17&gtm_cookies_win=x:1041
+[  550632ms] [LOG] Firing Pinterest event: pagevisit @ https://www.googletagmanager.com/gtm.js?id=GTM-W327B49&gtm_auth=Q8lkwku7ZkkDrCYSgeQulQ&gtm_preview=env-17&gtm_cookies_win=x:1041
+[  550632ms] [LOG] Event Data:{"np":"gtm","gtm_version":"legacy"} @ https://www.googletagmanager.com/gtm.js?id=GTM-W327B49&gtm_auth=Q8lkwku7ZkkDrCYSgeQulQ&gtm_preview=env-17&gtm_cookies_win=x:1041
+[  550792ms] [WARNING] [Meta Pixel] - Duplicate Pixel ID: 2052142861683782. @ https://connect.facebook.net/en_US/fbevents.js:177
+[  550842ms] [LOG] UET GTM listening for consent updates @ https://www.googletagmanager.com/gtm.js?id=GTM-W327B49&gtm_auth=Q8lkwku7ZkkDrCYSgeQulQ&gtm_preview=env-17&gtm_cookies_win=x:1041
+[  550945ms] [ERROR] Attestation check for Attribution Reporting on https://www.facebook.com failed. @ https://www.howdens.com/Search/did-you-mean/A-E/Blue?u_sr=blue:0
+[  564377ms] [LOG] GTM PTag v1.4; tagId: 2614341617583 @ https://www.googletagmanager.com/gtm.js?id=GTM-W327B49&gtm_auth=Q8lkwku7ZkkDrCYSgeQulQ&gtm_preview=env-17&gtm_cookies_win=x:1041
+[  564378ms] [LOG] GTM PTag v1.4; tagId: 2614341617583 @ https://www.googletagmanager.com/gtm.js?id=GTM-W327B49&gtm_auth=Q8lkwku7ZkkDrCYSgeQulQ&gtm_preview=env-17&gtm_cookies_win=x:1041
+[  564448ms] [LOG] Firing Pinterest event: pagevisit @ https://www.googletagmanager.com/gtm.js?id=GTM-W327B49&gtm_auth=Q8lkwku7ZkkDrCYSgeQulQ&gtm_preview=env-17&gtm_cookies_win=x:1041
+[  564448ms] [LOG] Event Data:{"np":"gtm","gtm_version":"legacy"} @ https://www.googletagmanager.com/gtm.js?id=GTM-W327B49&gtm_auth=Q8lkwku7ZkkDrCYSgeQulQ&gtm_preview=env-17&gtm_cookies_win=x:1041
+[  564469ms] [LOG] UET GTM listening for consent updates @ https://www.googletagmanager.com/gtm.js?id=GTM-W327B49&gtm_auth=Q8lkwku7ZkkDrCYSgeQulQ&gtm_preview=env-17&gtm_cookies_win=x:1041
+[  564903ms] [WARNING] [Meta Pixel] - Duplicate Pixel ID: 2052142861683782. @ https://connect.facebook.net/en_US/fbevents.js:177
+[  565038ms] [ERROR] Attestation check for Attribution Reporting on https://www.facebook.com failed. @ https://www.howdens.com/:0
+[  575382ms] [LOG] GTM PTag v1.4; tagId: 2614341617583 @ https://www.googletagmanager.com/gtm.js?id=GTM-W327B49&gtm_auth=Q8lkwku7ZkkDrCYSgeQulQ&gtm_preview=env-17&gtm_cookies_win=x:1042
+[  575383ms] [LOG] GTM PTag v1.4; tagId: 2614341617583 @ https://www.googletagmanager.com/gtm.js?id=GTM-W327B49&gtm_auth=Q8lkwku7ZkkDrCYSgeQulQ&gtm_preview=env-17&gtm_cookies_win=x:1042
+[  575447ms] [LOG] Firing Pinterest event: pagevisit @ https://www.googletagmanager.com/gtm.js?id=GTM-W327B49&gtm_auth=Q8lkwku7ZkkDrCYSgeQulQ&gtm_preview=env-17&gtm_cookies_win=x:1042
+[  575447ms] [LOG] Event Data:{"np":"gtm","gtm_version":"legacy"} @ https://www.googletagmanager.com/gtm.js?id=GTM-W327B49&gtm_auth=Q8lkwku7ZkkDrCYSgeQulQ&gtm_preview=env-17&gtm_cookies_win=x:1042
+[  575464ms] [LOG] UET GTM listening for consent updates @ https://www.googletagmanager.com/gtm.js?id=GTM-W327B49&gtm_auth=Q8lkwku7ZkkDrCYSgeQulQ&gtm_preview=env-17&gtm_cookies_win=x:1042
+[  575749ms] [WARNING] [Meta Pixel] - Duplicate Pixel ID: 2052142861683782. @ https://connect.facebook.net/en_US/fbevents.js:177
+[  575887ms] [ERROR] Attestation check for Attribution Reporting on https://www.facebook.com failed. @ https://www.howdens.com/Search/did-you-mean/A-E/Blue?u_sr=blue:0

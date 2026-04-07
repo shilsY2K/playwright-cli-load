@@ -1,0 +1,536 @@
+- generic [ref=e1]:
+  - link [ref=e2] [cursor=pointer]:
+    - /url: "#"
+    - text: ___
+  - link "Skip to main content" [ref=e4] [cursor=pointer]:
+    - /url: "#main"
+    - text: SKIP TO CONTENT
+  - banner [ref=e5]:
+    - generic [ref=e6]:
+      - generic [ref=e8]:
+        - button "View" [ref=e9] [cursor=pointer]:
+          - paragraph [ref=e12]: View
+        - link "Howdens Rooster logo" [ref=e14] [cursor=pointer]:
+          - /url: /
+          - img "Howdens Rooster logo" [ref=e16]
+        - region [ref=e18]:
+          - generic [ref=e19]:
+            - searchbox "search" [ref=e20]
+            - button "Search" [ref=e21]
+      - generic:
+        - generic:
+          - navigation "Primary Navigation" [ref=e22]:
+            - generic [ref=e23]:
+              - text: 
+              - button "Close" [ref=e24]
+            - text:    
+          - generic [ref=e25]:
+            - button "Your Account Sign in | Register" [ref=e26]:
+              - generic [ref=e28]:
+                - generic [ref=e29]: Your Account
+                - generic [ref=e30]: Sign in | Register
+            - generic [ref=e31] [cursor=pointer]:
+              - text: 
+              - generic [ref=e32]: Selected Depot
+              - generic [ref=e33]: Find a Depot
+            - link "Book a design appointment" [ref=e35] [cursor=pointer]:
+              - /url: "#bada-open"
+              - generic [ref=e37]: Book a design appointment
+  - complementary "Request A Brochure" [ref=e38]
+  - complementary "Book a design appointment" [ref=e39]
+  - main [ref=e40]:
+    - generic [ref=e42]:
+      - generic:
+        - generic:
+          - generic:
+            - link:
+              - /url: /lamona
+              - img
+          - generic:
+            - img
+            - link:
+              - /url: /kitchens/fitted-kitchens?highlights=New
+              - generic: New kitchens including new Winterton. View all new kitchens.
+              - paragraph: Winterton modern kitchens. Pale gloss U shaped kitchen.
+          - generic:
+            - link:
+              - /url: /bedrooms/fitted-bedrooms?highlights=New
+              - img
+          - generic:
+            - link:
+              - /url: /kitchens/worktops/quartz-worktops
+              - img
+      - region "WK13 UK Consumer" [ref=e43]:
+        - generic [ref=e44]:
+          - group "Slide 1 of 4" [ref=e45]:
+            - link "New kitchens including new Winterton. View all new kitchens." [ref=e46] [cursor=pointer]:
+              - /url: /kitchens/fitted-kitchens?highlights=New
+              - figure "New kitchens including new Winterton. View all new kitchens.":
+                - generic "New kitchens including new Winterton. View all new kitchens." [ref=e47]
+                - generic [ref=e48]: New kitchens including new Winterton. View all new kitchens.
+                - paragraph [ref=e49]: Winterton modern kitchens. Pale gloss U shaped kitchen.
+          - group "Slide 2 of 4":
+            - link "New bedrooms, including Winterton modern bedrooms. View all new bedrooms.":
+              - /url: /bedrooms/fitted-bedrooms?highlights=New
+              - generic:
+                - img "New bedrooms, including Winterton modern bedrooms. View all new bedrooms."
+          - group "Slide 3 of 4" [ref=e50]:
+            - link "FIRA gold certified solid surfaces. View quartz worktops." [ref=e51] [cursor=pointer]:
+              - /url: /kitchens/worktops/quartz-worktops
+              - img "FIRA gold certified solid surfaces. View quartz worktops." [ref=e52]
+          - group "Slide 4 of 4" [ref=e53]:
+            - link "Lamona, quality without complexity. View Lamona appliances." [ref=e54] [cursor=pointer]:
+              - /url: /lamona
+              - img "Lamona, quality without complexity. View Lamona appliances." [ref=e55]
+      - generic:
+        - generic:
+          - generic:
+            - link:
+              - /url: /bedrooms/fitted-bedrooms?highlights=New
+              - img
+          - generic:
+            - link:
+              - /url: /kitchens/worktops/quartz-worktops
+              - img
+          - generic:
+            - link:
+              - /url: /lamona
+              - img
+          - generic:
+            - img
+            - link:
+              - /url: /kitchens/fitted-kitchens?highlights=New
+              - generic: New kitchens including new Winterton. View all new kitchens.
+              - paragraph: Winterton modern kitchens. Pale gloss U shaped kitchen.
+      - generic:
+        - button "Previous slide" [ref=e56] [cursor=pointer]:
+          - img [ref=e57]
+        - generic [ref=e59]:
+          - generic [ref=e60]:
+            - button "Go to slide 1" [ref=e61] [cursor=pointer]
+            - button "Go to slide 2" [ref=e62] [cursor=pointer]
+            - button "Go to slide 3" [ref=e63] [cursor=pointer]
+            - button "Go to slide 4" [ref=e64] [cursor=pointer]
+          - button "Pause autoplay" [ref=e65] [cursor=pointer]:
+            - img [ref=e66]
+        - button "Next slide" [ref=e68] [cursor=pointer]:
+          - img [ref=e69]
+    - generic [ref=e75]:
+      - img [ref=e76]
+      - generic [ref=e77]:
+        - generic [ref=e78]: Book a FREE design appointment
+        - list [ref=e79]:
+          - listitem [ref=e80]: Tell us your needs and ideas
+          - listitem [ref=e81]: We’ll measure up and create a 3D plan
+          - listitem [ref=e82]: Refine your design until you’re happy
+        - link "BOOK A DESIGN APPOINTMENT" [ref=e83] [cursor=pointer]:
+          - /url: "#bada-open"
+    - list [ref=e86]:
+      - listitem [ref=e87]:
+        - link "ASS_25669913_16_9 Kitchens" [ref=e88] [cursor=pointer]:
+          - /url: /kitchens
+          - img "ASS_25669913_16_9" [ref=e91]
+          - heading "Kitchens" [level=4] [ref=e93]
+      - listitem [ref=e94]:
+        - link "ASS_25667416_16_9 Bedrooms" [ref=e95] [cursor=pointer]:
+          - /url: /bedrooms
+          - img "ASS_25667416_16_9" [ref=e98]
+          - heading "Bedrooms" [level=4] [ref=e100]
+      - listitem [ref=e101]:
+        - link "ASS_25664220_16_9 Joinery" [ref=e102] [cursor=pointer]:
+          - /url: /joinery
+          - img "ASS_25664220_16_9" [ref=e105]
+          - heading "Joinery" [level=4] [ref=e107]
+    - generic [ref=e109]:
+      - text: Real Homes with Howdens
+      - paragraph [ref=e110]: Ideas and inspiration for all areas of the home
+      - generic [ref=e111]:
+        - link "Kitchens" [ref=e112] [cursor=pointer]:
+          - /url: /help-and-advice/real-kitchens-with-howdens
+          - img [ref=e113]
+          - paragraph [ref=e114]: Kitchens
+        - link "Joinery" [ref=e115] [cursor=pointer]:
+          - /url: /help-and-advice/real-homes-with-howdens?category=doors
+          - img [ref=e116]
+          - paragraph [ref=e117]: Joinery
+        - link "Bedrooms" [ref=e118] [cursor=pointer]:
+          - /url: /help-and-advice/real-homes-with-howdens?category=bedrooms
+          - img [ref=e119]
+          - paragraph [ref=e120]: Bedrooms
+        - link "Bathrooms" [ref=e121] [cursor=pointer]:
+          - /url: /help-and-advice/real-homes-with-howdens?category=bathrooms
+          - img [ref=e122]
+          - paragraph [ref=e123]: Bathrooms
+        - link "Utlity rooms" [ref=e124] [cursor=pointer]:
+          - /url: /help-and-advice/real-homes-with-howdens?category=utilityrooms
+          - img [ref=e125]
+          - paragraph [ref=e126]: Utlity rooms
+    - generic [ref=e128]:
+      - text: Explore our kitchens by colour
+      - text: Kitchen ranges to suit a variety of budgets, in our most popular colours.
+      - generic [ref=e129]:
+        - link "Green" [ref=e130] [cursor=pointer]:
+          - /url: /kitchens/fitted-kitchens?colour=Green
+          - paragraph [ref=e132]: Green
+        - link "Cream" [ref=e133] [cursor=pointer]:
+          - /url: /kitchens/fitted-kitchens?colour=Cream
+          - paragraph [ref=e135]: Cream
+        - link "Blue" [ref=e136] [cursor=pointer]:
+          - /url: /kitchens/fitted-kitchens?colour=Blue
+          - paragraph [ref=e138]: Blue
+        - link "Oak" [ref=e139] [cursor=pointer]:
+          - /url: /kitchens/fitted-kitchens?colour=Oak
+          - paragraph [ref=e141]: Oak
+        - link "White" [ref=e142] [cursor=pointer]:
+          - /url: /kitchens/fitted-kitchens?colour=White
+          - paragraph [ref=e144]: White
+        - link "Grey" [ref=e145] [cursor=pointer]:
+          - /url: /kitchens/fitted-kitchens?colour=Grey
+          - paragraph [ref=e147]: Grey
+      - link "VIEW ALL KITCHEN COLOURS" [ref=e149] [cursor=pointer]:
+        - /url: /kitchens/fitted-kitchens/kitchen-colours
+        - generic [ref=e150]: VIEW ALL KITCHEN COLOURS
+    - generic [ref=e152]:
+      - generic [ref=e155]:
+        - img "New bedrooms, kitchens and trade book brochures cover with new icon"
+      - generic [ref=e156]:
+        - heading "New brochures out now" [level=3] [ref=e157]
+        - link "Download the latest brochures" [ref=e158] [cursor=pointer]:
+          - /url: "#rab-open"
+    - generic [ref=e161]:
+      - generic [ref=e162]:
+        - link "Kitchen Visualiser" [ref=e164] [cursor=pointer]:
+          - /url: /kitchen-visualiser
+          - generic [ref=e166]:
+            - img "Kitchen Visualiser"
+        - link "Kitchen Visualiser" [ref=e169] [cursor=pointer]:
+          - /url: /kitchen-visualiser
+          - text:  Kitchen Visualiser
+      - generic [ref=e170]:
+        - link "Find out more" [ref=e172] [cursor=pointer]:
+          - /url: /help-and-advice/about-us/howdens-expo
+          - generic [ref=e174]:
+            - img "The Howdens Expo"
+        - link "Find out more" [ref=e177] [cursor=pointer]:
+          - /url: /help-and-advice/about-us/howdens-expo
+          - text:  Find out more
+      - generic [ref=e178]:
+        - link "New Products" [ref=e180] [cursor=pointer]:
+          - /url: /new-products
+          - generic [ref=e182]:
+            - img "Bedroom with white wardrobe cupboards and new logo"
+        - link "New Products" [ref=e185] [cursor=pointer]:
+          - /url: /new-products
+          - text:  New Products
+    - generic [ref=e188]:
+      - generic [ref=e189]:
+        - link "Allendale pebble kitchen with best on budget logo" [ref=e191] [cursor=pointer]:
+          - /url: /kitchens/best-on-budget
+          - generic [ref=e193]:
+            - img "Allendale pebble kitchen with best on budget logo"
+        - link " Best on Budget" [ref=e195] [cursor=pointer]:
+          - /url: /kitchens/best-on-budget
+      - generic [ref=e196]:
+        - link "stone-effect worktop with new logo" [ref=e198] [cursor=pointer]:
+          - /url: /kitchens/worktops/kitchen-worktops?highlights=New
+          - generic [ref=e200]:
+            - img "stone-effect worktop with new logo"
+        - link " New worktops" [ref=e202] [cursor=pointer]:
+          - /url: /kitchens/worktops/kitchen-worktops?highlights=New
+      - generic [ref=e203]:
+        - link "Brushed gold kitchen tap over white sink with new logo" [ref=e205] [cursor=pointer]:
+          - /url: /kitchens/kitchen-sinks-and-taps/kitchen-taps?highlights=New
+          - generic [ref=e207]:
+            - img "Brushed gold kitchen tap over white sink with new logo"
+        - link " New taps" [ref=e209] [cursor=pointer]:
+          - /url: /kitchens/kitchen-sinks-and-taps/kitchen-taps?highlights=New
+      - generic [ref=e210]:
+        - link "Black interior door with grooves with new logo" [ref=e212] [cursor=pointer]:
+          - /url: /joinery/doors?highlights=New
+          - generic [ref=e214]:
+            - img "Black interior door with grooves with new logo"
+        - link " New doors" [ref=e216] [cursor=pointer]:
+          - /url: /joinery/doors?highlights=New
+    - generic [ref=e218]:
+      - generic [ref=e221]:
+        - img "A Frome kitchen island layout, with charcoal black units and matt metallic island units. It is finished with oak flooring."
+      - generic [ref=e222]:
+        - heading "Customise with mix and match" [level=3] [ref=e223]
+        - generic [ref=e224]:
+          - text: Embrace colour and door style combinations to create a bespoke, contemporary space - showcased here with
+          - link "Clerkenwell Matt Metallic Bronze" [ref=e225] [cursor=pointer]:
+            - /url: /kitchens/fitted-kitchens/clerkenwell-matt-metallic/clerkenwell-matt-metallic-bronze
+          - text: and
+          - link "Frome Charcoal" [ref=e226] [cursor=pointer]:
+            - /url: /kitchens/fitted-kitchens/frome/frome-charcoal
+          - text: .
+        - link "Mix and match ideas" [ref=e227] [cursor=pointer]:
+          - /url: /help-and-advice/inspiration/kitchen-ideas/kitchen-style-ideas/mix-and-match-kitchen-ideas
+    - generic [ref=e229]:
+      - heading "Buying from Howdens" [level=3] [ref=e230]
+      - generic [ref=e231]: With your tradesperson on board and products from local stock, start your Howdens journey, from inspiration to ordering and fitting.
+      - generic [ref=e232]:
+        - generic [ref=e233]:
+          - img [ref=e234]
+          - heading "Feel inspired" [level=3] [ref=e235]
+          - link "KITCHEN STYLE FINDER" [ref=e236] [cursor=pointer]:
+            - /url: /kitchen-style-finder
+        - generic [ref=e237]:
+          - img [ref=e238]
+          - heading "FREE design service" [level=3] [ref=e239]
+          - link "BOOK A DESIGN APPOINTMENT" [ref=e240] [cursor=pointer]:
+            - /url: "#bada-open"
+        - generic [ref=e241]:
+          - img [ref=e242]
+          - heading "Ready to fit" [level=3] [ref=e243]
+          - link "FIND A DEPOT" [ref=e244] [cursor=pointer]:
+            - /url: "#fad-open"
+    - generic [ref=e245]:
+      - generic [ref=e246]:
+        - paragraph [ref=e247]: Excellent
+        - link "4.5" [ref=e248] [cursor=pointer]:
+          - /url: https://uk.trustpilot.com/review/www.howdens.com
+          - img "4.5" [ref=e249]
+        - paragraph [ref=e250]:
+          - link "Based on 78824 reviews" [ref=e251] [cursor=pointer]:
+            - /url: https://uk.trustpilot.com/review/www.howdens.com
+        - img "Trustpilot" [ref=e252]
+        - generic [ref=e256]: Showing our latest reviews
+      - generic [ref=e257]:
+        - generic [ref=e258]:
+          - generic [ref=e260] [cursor=pointer]: 
+          - list [ref=e263]:
+            - listitem [ref=e264]:
+              - link "4.5 today I’ve dealt with them for years and they… I’ve dealt with them for years and they have always been very helpful in every way for me they are a very pleasant team always a pleasure to deal with them Donald Wilkinson" [ref=e265] [cursor=pointer]:
+                - /url: https://uk.trustpilot.com/reviews/69d3a85f06fa10117759bac5
+                - generic [ref=e266]:
+                  - img "4.5" [ref=e267]
+                  - paragraph [ref=e268]: today
+                - paragraph [ref=e269]: I’ve dealt with them for years and they…
+                - paragraph [ref=e270]: I’ve dealt with them for years and they have always been very helpful in every way for me they are a very pleasant team always a pleasure to deal with them
+                - paragraph [ref=e271]: Donald Wilkinson
+            - listitem [ref=e272]:
+              - link "4.5 today Howdens staff Always helpful and pleasant will find what you require or get stock in quickly NICOLAS DIAMOND" [ref=e273] [cursor=pointer]:
+                - /url: https://uk.trustpilot.com/reviews/69d36d32dd4e1c787e9b090e
+                - generic [ref=e274]:
+                  - img "4.5" [ref=e275]
+                  - paragraph [ref=e276]: today
+                - paragraph [ref=e277]: Howdens staff
+                - paragraph [ref=e278]: Always helpful and pleasant will find what you require or get stock in quickly
+                - paragraph [ref=e279]: NICOLAS DIAMOND
+            - listitem [ref=e280]:
+              - link "4.5 today A good depot A good depot, never an issue sorting anything out and a friendly bunch to work with. Gerald Sedgwick" [ref=e281] [cursor=pointer]:
+                - /url: https://uk.trustpilot.com/reviews/69d3697159232dd1f7f5e3e5
+                - generic [ref=e282]:
+                  - img "4.5" [ref=e283]
+                  - paragraph [ref=e284]: today
+                - paragraph [ref=e285]: A good depot
+                - paragraph [ref=e286]: A good depot, never an issue sorting anything out and a friendly bunch to work with.
+                - paragraph [ref=e287]: Gerald Sedgwick
+            - listitem [ref=e288]:
+              - link "4.5 today Helpful staff plenty of stock no… Helpful staff plenty of stock no problems at all Matthew" [ref=e289] [cursor=pointer]:
+                - /url: https://uk.trustpilot.com/reviews/69d35da10b9cf03de821225d
+                - generic [ref=e290]:
+                  - img "4.5" [ref=e291]
+                  - paragraph [ref=e292]: today
+                - paragraph [ref=e293]: Helpful staff plenty of stock no…
+                - paragraph [ref=e294]: Helpful staff plenty of stock no problems at all
+                - paragraph [ref=e295]: Matthew
+            - listitem [ref=e296]:
+              - link "4.5 today Very quick from store to van top… Very quick from store to van top service as always ALPHA PROPERTY SERVICES" [ref=e297] [cursor=pointer]:
+                - /url: https://uk.trustpilot.com/reviews/69d35a31d1e7d6ccc495abc8
+                - generic [ref=e298]:
+                  - img "4.5" [ref=e299]
+                  - paragraph [ref=e300]: today
+                - paragraph [ref=e301]: Very quick from store to van top…
+                - paragraph [ref=e302]: Very quick from store to van top service as always
+                - paragraph [ref=e303]: ALPHA PROPERTY SERVICES
+            - listitem [ref=e304]:
+              - link "4.5 today Very good and prompt service Very good and prompt service When shopping at my local Branch Unit 6, Chelmsford Trade Park, Westway, Chelmsford CM1 3AR I always feel I am getting a personal service and all the staff very helpful and willing to assist. I strongly recommend this branch Anthony Pule'" [ref=e305] [cursor=pointer]:
+                - /url: https://uk.trustpilot.com/reviews/69d2ea15b36bad66cdd2841e
+                - generic [ref=e306]:
+                  - img "4.5" [ref=e307]
+                  - paragraph [ref=e308]: today
+                - paragraph [ref=e309]: Very good and prompt service
+                - paragraph [ref=e310]: Very good and prompt service When shopping at my local Branch Unit 6, Chelmsford Trade Park, Westway, Chelmsford CM1 3AR I always feel I am getting a personal service and all the staff very helpful and willing to assist. I strongly recommend this branch
+                - paragraph [ref=e311]: Anthony Pule'
+            - listitem [ref=e312]:
+              - link "4.5 today Great service and great aftercare which… Great service and great aftercare which is really good MILESTONE" [ref=e313] [cursor=pointer]:
+                - /url: https://uk.trustpilot.com/reviews/69d2ba7c96954744c55d2543
+                - generic [ref=e314]:
+                  - img "4.5" [ref=e315]
+                  - paragraph [ref=e316]: today
+                - paragraph [ref=e317]: Great service and great aftercare which…
+                - paragraph [ref=e318]: Great service and great aftercare which is really good
+                - paragraph [ref=e319]: MILESTONE
+            - listitem [ref=e320]:
+              - link "4.5 today Catherine is always ready to help and… Catherine is always ready to help and has great knowledge of what you are selling. Mark Latham" [ref=e321] [cursor=pointer]:
+                - /url: https://uk.trustpilot.com/reviews/69d2b03bcd11776d0705029f
+                - generic [ref=e322]:
+                  - img "4.5" [ref=e323]
+                  - paragraph [ref=e324]: today
+                - paragraph [ref=e325]: Catherine is always ready to help and…
+                - paragraph [ref=e326]: Catherine is always ready to help and has great knowledge of what you are selling.
+                - paragraph [ref=e327]: Mark Latham
+            - listitem [ref=e328]:
+              - link "4.5 today Just professional service in Ards value… Just professional service in Ards value timing always spot on happy me happy customers. MR ROBIN MCGREEGHAN" [ref=e329] [cursor=pointer]:
+                - /url: https://uk.trustpilot.com/reviews/69d2ae5ce06710a50cb201e4
+                - generic [ref=e330]:
+                  - img "4.5" [ref=e331]
+                  - paragraph [ref=e332]: today
+                - paragraph [ref=e333]: Just professional service in Ards value…
+                - paragraph [ref=e334]: Just professional service in Ards value timing always spot on happy me happy customers.
+                - paragraph [ref=e335]: MR ROBIN MCGREEGHAN
+            - listitem [ref=e336]:
+              - link "4.5 today Experience Excellent service and always will to help JW INTERIORS" [ref=e337] [cursor=pointer]:
+                - /url: https://uk.trustpilot.com/reviews/69d2aab812b54b9581a4555f
+                - generic [ref=e338]:
+                  - img "4.5" [ref=e339]
+                  - paragraph [ref=e340]: today
+                - paragraph [ref=e341]: Experience
+                - paragraph [ref=e342]: Excellent service and always will to help
+                - paragraph [ref=e343]: JW INTERIORS
+          - generic [ref=e345] [cursor=pointer]: 
+        - text:  
+  - contentinfo [ref=e346]:
+    - generic [ref=e347]:
+      - generic [ref=e351]:
+        - generic:
+          - img "Royal warrant logo"
+      - generic [ref=e352]:
+        - generic [ref=e353]:
+          - button "Social media" [ref=e354]:
+            - heading "Social media" [level=3] [ref=e355]
+          - list [ref=e356]:
+            - listitem [ref=e357]:
+              - link "Facebook" [ref=e358] [cursor=pointer]:
+                - /url: https://www.facebook.com/howdensofficial/
+            - listitem [ref=e359]:
+              - link "Instagram" [ref=e360] [cursor=pointer]:
+                - /url: https://www.instagram.com/howdensjoinery/?hl=en
+            - listitem [ref=e361]:
+              - link "Pinterest" [ref=e362] [cursor=pointer]:
+                - /url: https://www.pinterest.co.uk/howdenskitchensandjoinery/
+            - listitem [ref=e363]:
+              - link "TikTok" [ref=e364] [cursor=pointer]:
+                - /url: https://www.tiktok.com/@howdensjoinery
+                - img "TikTok" [ref=e365]
+                - text: TikTok
+            - listitem [ref=e366]:
+              - link "YouTube" [ref=e367] [cursor=pointer]:
+                - /url: https://www.youtube.com/howdens
+        - generic [ref=e368]:
+          - button "Help" [ref=e369]:
+            - heading "Help" [level=3] [ref=e370]
+          - list [ref=e371]:
+            - listitem [ref=e372]:
+              - link "Aftersales" [ref=e373] [cursor=pointer]:
+                - /url: /help-and-advice/aftersales
+            - listitem [ref=e374]:
+              - link "Book a design appointment" [ref=e375] [cursor=pointer]:
+                - /url: "#bada-open"
+            - listitem [ref=e376]:
+              - link "Buying from us" [ref=e377] [cursor=pointer]:
+                - /url: /help-and-advice/buying-from-us
+            - listitem [ref=e378]:
+              - link "Buying guides" [ref=e379] [cursor=pointer]:
+                - /url: /help-and-advice/buying-guides
+            - listitem [ref=e380]:
+              - link "Contact us" [ref=e381] [cursor=pointer]:
+                - /url: /help-and-advice/about-us/contact-us
+            - listitem [ref=e382]:
+              - link "Depot A-Z" [ref=e383] [cursor=pointer]:
+                - /url: /find-a-depot/depot-a-z
+            - listitem [ref=e384]:
+              - link "Help and advice" [ref=e385] [cursor=pointer]:
+                - /url: /help-and-advice
+            - listitem [ref=e386]:
+              - link "Inspiration" [ref=e387] [cursor=pointer]:
+                - /url: /help-and-advice/inspiration
+            - listitem [ref=e388]:
+              - link "Request a brochure" [ref=e389] [cursor=pointer]:
+                - /url: "#rab-open"
+        - generic [ref=e390]:
+          - button "About Howdens" [ref=e391]:
+            - heading "About Howdens" [level=3] [ref=e392]
+          - list [ref=e393]:
+            - listitem [ref=e394]:
+              - link "About Howdens UK" [ref=e395] [cursor=pointer]:
+                - /url: /help-and-advice/about-us
+            - listitem [ref=e396]:
+              - link "Howdens Careers" [ref=e397] [cursor=pointer]:
+                - /url: https://careers.howdens.com/
+            - listitem [ref=e398]:
+              - link "Howdens France" [ref=e399] [cursor=pointer]:
+                - /url: http://www.howdens.fr/
+            - listitem [ref=e400]:
+              - link "Howden Joinery Group PLC" [ref=e401] [cursor=pointer]:
+                - /url: http://www.howdenjoinerygroupplc.com/
+        - generic [ref=e402]:
+          - button "More from us" [ref=e403]:
+            - heading "More from us" [level=3] [ref=e404]
+          - list [ref=e405]:
+            - listitem [ref=e406]:
+              - link "Accessibility" [ref=e407] [cursor=pointer]:
+                - /url: /accessibility-statement
+            - listitem [ref=e408]:
+              - link "Cookie policy" [ref=e409] [cursor=pointer]:
+                - /url: /cookie-policy
+            - listitem [ref=e410]:
+              - link "Guarantee terms and conditions" [ref=e411] [cursor=pointer]:
+                - /url: /help-and-advice/aftersales/guarantee-terms-and-conditions
+            - listitem [ref=e412]:
+              - link "Newsroom" [ref=e413] [cursor=pointer]:
+                - /url: /help-and-advice/about-us/newsroom
+            - listitem [ref=e414]:
+              - link "Privacy policy" [ref=e415] [cursor=pointer]:
+                - /url: /privacy-policy
+            - listitem [ref=e416]:
+              - link "Promotion terms and conditions" [ref=e417] [cursor=pointer]:
+                - /url: /promotions-terms-and-conditions
+            - listitem [ref=e418]:
+              - link "Sustainability" [ref=e419] [cursor=pointer]:
+                - /url: /help-and-advice/about-us/sustainability
+            - listitem [ref=e420]:
+              - link "Website & App terms and conditions" [ref=e421] [cursor=pointer]:
+                - /url: /terms-and-conditions
+            - listitem [ref=e422]:
+              - link "Trade terms and conditions" [ref=e423] [cursor=pointer]:
+                - /url: /trade-terms-and-conditions
+      - paragraph [ref=e424]: © Copyright 2026 Howden Joinery Ltd
+  - complementary "Find a Depot" [ref=e425]:
+    - button "Close" [ref=e427] [cursor=pointer]
+    - generic [ref=e429]:
+      - heading "Find a Depot" [level=3] [ref=e430]
+      - generic [ref=e431]:
+        - generic [ref=e432]:
+          - generic [ref=e433]: Enter a town or postcode
+          - textbox "Enter a town or postcode" [ref=e434]:
+            - /placeholder: Postcode, town, city or area
+          - button [ref=e435]
+        - list
+      - text: 
+      - paragraph [ref=e436]: Or
+      - button "Use current location" [ref=e437] [cursor=pointer]:
+        - generic [ref=e438]: Use current location
+      - link "A-Z of Depots" [ref=e440] [cursor=pointer]:
+        - /url: /find-a-depot/depot-a-z
+  - generic:
+    - region "Cookie banner" [ref=e443]:
+      - dialog "Our cookies" [ref=e444]:
+        - generic [ref=e445]:
+          - generic [ref=e446]:
+            - generic:
+              - heading "Our cookies" [level=2] [ref=e447]
+              - generic [ref=e448]:
+                - paragraph [ref=e449]: By clicking “Accept All Cookies”, you agree to the storing of all cookies on your device to enhance site navigation, analyse site usage and interaction with emails, and deliver and analyse the effectiveness of relevant advertising on this and other sites.
+                - paragraph [ref=e450]: If you choose “Reject cookies”, only cookies that are essential for the operation of our website will be used. Alternatively, you can make more specific choices by choosing 'manage cookies'
+                - link "More information about your privacy, opens in a new tab" [active] [ref=e451] [cursor=pointer]:
+                  - /url: /cookie-policy
+                  - text: Find out more about the cookies we use.
+          - generic [ref=e453]:
+            - generic [ref=e454]:
+              - button "REJECT COOKIES" [ref=e455] [cursor=pointer]
+              - button "ACCEPT ALL COOKIES" [ref=e456] [cursor=pointer]
+            - button "MANAGE COOKIES" [ref=e457] [cursor=pointer]
+    - text: Required

@@ -1,0 +1,11 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1775520239791,518,GET /,200,OK,Main Thread Group 1-1,text,false,Test failed: code expected to contain /201/,246839,150,2,2,https://www.howdens.com/,431,0,241
+1775520240248,367,GET /,200,OK,Main Thread Group 1-2,text,false,Test failed: code expected to contain /201/,246825,150,1,1,https://www.howdens.com/,281,0,67
+1775520240755,295,GET /,200,OK,Main Thread Group 1-3,text,false,Test failed: code expected to contain /201/,246825,150,1,1,https://www.howdens.com/,229,0,43
+1775520241251,338,GET /,200,OK,Main Thread Group 1-4,text,false,Test failed: code expected to contain /201/,246801,150,1,1,https://www.howdens.com/,261,0,69
+1775520241752,298,GET /,200,OK,Main Thread Group 1-5,text,false,Test failed: code expected to contain /201/,246849,150,1,1,https://www.howdens.com/,236,0,50
+1775520242253,335,GET /,200,OK,Main Thread Group 1-6,text,false,Test failed: code expected to contain /201/,246802,150,1,1,https://www.howdens.com/,256,0,59
+1775520242752,365,GET /,200,OK,Main Thread Group 1-7,text,false,Test failed: code expected to contain /201/,246825,150,1,1,https://www.howdens.com/,279,0,60
+1775520243252,322,GET /,200,OK,Main Thread Group 1-8,text,false,Test failed: code expected to contain /201/,246849,150,1,1,https://www.howdens.com/,239,0,66
+1775520243755,937,GET /,200,OK,Main Thread Group 1-9,text,false,Test failed: code expected to contain /201/,246849,150,2,2,https://www.howdens.com/,869,0,54
+1775520244252,769,GET /,200,OK,Main Thread Group 1-10,text,false,Test failed: code expected to contain /201/,246813,150,1,1,https://www.howdens.com/,682,0,70

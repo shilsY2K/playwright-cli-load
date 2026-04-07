@@ -1,0 +1,25 @@
+apiVersion: v1alpha
+kind: playwright
+sauce:
+  region: us-west-1
+  concurrency: 5
+  metadata:
+    tags:
+      - e2e
+      - saucectl
+      - playwright
+playwright:
+  version: "1.58.1"
+  configFile: playwright.config.ts
+rootDir: ./
+suites:
+  - name: "Chromium Mac"
+    platformName: "macOS 13"
+    screenResolution: "1920x1080"
+    testMatch: [".*\\.spec\\.ts"]
+    params:
+      browserName: "chromium"
+      project: "chromium"
+reporters:
+  spotlight:
+    enabled: true

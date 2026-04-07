@@ -1,0 +1,150 @@
+- generic [active] [ref=e1]:
+  - link "Skip to main content" [ref=e2] [cursor=pointer]:
+    - /url: "#main"
+    - text: SKIP TO CONTENT
+  - banner [ref=e3]:
+    - generic [ref=e4]:
+      - generic [ref=e6]:
+        - button "View" [ref=e7] [cursor=pointer]:
+          - paragraph [ref=e10]: View
+        - link "Howdens Rooster logo" [ref=e12] [cursor=pointer]:
+          - /url: /
+          - img "Howdens Rooster logo" [ref=e14]
+        - region [ref=e16]:
+          - generic [ref=e17]:
+            - searchbox "search" [ref=e18]
+            - button "Search" [ref=e19]
+      - generic:
+        - generic:
+          - navigation "Primary Navigation" [ref=e20]:
+            - generic [ref=e21]:
+              - text: 
+              - button "Close" [ref=e22]: 
+              - generic [ref=e23]:
+                - switch "Consumer" [ref=e24]:
+                  - generic [ref=e26]: Consumer
+                - generic [ref=e27]:
+                  - generic [ref=e28]: Consumer
+                  - generic [ref=e29]: Trade
+            - text:    
+          - generic [ref=e30]:
+            - button "Account" [ref=e31]:
+              - generic [ref=e34]: Account
+            - generic [ref=e35] [cursor=pointer]:
+              - text: 
+              - generic: Find a Depot
+            - link "Book a design appointment" [ref=e37] [cursor=pointer]:
+              - /url: "#bada-open"
+              - generic [ref=e39]: Book a design appointment
+  - complementary "Request A Brochure" [ref=e40]
+  - complementary "Book a design appointment" [ref=e41]
+  - main [ref=e42]:
+    - generic [ref=e45]:
+      - heading "Blue" [level=1] [ref=e46]
+      - generic:
+        - generic:
+          - paragraph
+    - generic [ref=e47]:
+      - heading "Kitchens" [level=2] [ref=e49]:
+        - paragraph [ref=e50]: Kitchens
+      - list [ref=e54]:
+        - listitem [ref=e55]:
+          - link "Blue Kitchens Blue Kitchens Food preparation areas." [ref=e56] [cursor=pointer]:
+            - /url: /kitchens/fitted-kitchens?colour=Blue
+            - img "Blue Kitchens" [ref=e59]
+            - generic [ref=e60]:
+              - heading "Blue Kitchens" [level=4] [ref=e61]
+              - paragraph [ref=e62]: Food preparation areas.
+        - listitem [ref=e63]:
+          - link "Blue Kitchen Cornices and Pelmets Blue Kitchen Cornices and Pelmets Top and bottom borders for culinary cabinetry." [ref=e64] [cursor=pointer]:
+            - /url: /kitchens/kitchen-fittings/cornice-and-pelmets?colour=Blue
+            - img "Blue Kitchen Cornices and Pelmets" [ref=e67]
+            - generic [ref=e68]:
+              - heading "Blue Kitchen Cornices and Pelmets" [level=4] [ref=e69]
+              - paragraph [ref=e70]: Top and bottom borders for culinary cabinetry.
+        - listitem [ref=e71]:
+          - link "Kitchen Doors - Blue Blue Kitchen Doors Frontals for culinary cabinetry." [ref=e72] [cursor=pointer]:
+            - /url: /kitchens/kitchen-doors?colour=Blue&u_sr=blue_kitchen_doors
+            - img "Kitchen Doors - Blue" [ref=e75]
+            - generic [ref=e76]:
+              - heading "Blue Kitchen Doors" [level=4] [ref=e77]
+              - paragraph [ref=e78]: Frontals for culinary cabinetry.
+        - listitem [ref=e79]:
+          - link "Blue Plinths Blue Kitchen Plinths Barriers that connect elements and the ground." [ref=e80] [cursor=pointer]:
+            - /url: /kitchens/kitchen-fittings/plinths?colour=Blue
+            - img "Blue Plinths" [ref=e83]
+            - generic [ref=e84]:
+              - heading "Blue Kitchen Plinths" [level=4] [ref=e85]
+              - paragraph [ref=e86]: Barriers that connect elements and the ground.
+        - listitem [ref=e87]:
+          - link "Panels Blue Panels" [ref=e88] [cursor=pointer]:
+            - /url: /kitchens/kitchen-fittings/panels?colour=Blue
+            - img "Panels" [ref=e91]
+            - heading "Blue Panels" [level=4] [ref=e93]
+        - listitem [ref=e94]:
+          - link "Blue Wine Racks Blue Wine Racks Frames used for holding bottles." [ref=e95] [cursor=pointer]:
+            - /url: /kitchens/kitchen-fittings/wine-racks?colour=Blue
+            - img "Blue Wine Racks" [ref=e98]
+            - generic [ref=e99]:
+              - heading "Blue Wine Racks" [level=4] [ref=e100]
+              - paragraph [ref=e101]: Frames used for holding bottles.
+    - generic [ref=e102]:
+      - heading "Bathrooms" [level=2] [ref=e104]:
+        - paragraph [ref=e105]: Bathrooms
+      - list [ref=e109]:
+        - listitem [ref=e110]:
+          - link "Blue Bathrooms Blue Bathrooms Pre-assembled or flat-packed restrooms." [ref=e111] [cursor=pointer]:
+            - /url: /rooms/bathrooms/fitted-bathrooms?colour=Blue
+            - img "Blue Bathrooms" [ref=e114]
+            - generic [ref=e115]:
+              - heading "Blue Bathrooms" [level=4] [ref=e116]
+              - paragraph [ref=e117]: Pre-assembled or flat-packed restrooms.
+  - contentinfo [ref=e118]:
+    - generic [ref=e119]:
+      - img "Royal warrant logo" [ref=e125]
+      - generic [ref=e126]:
+        - generic [ref=e127]:
+          - button "Social media" [ref=e128]:
+            - heading "Social media" [level=3] [ref=e129]
+          - list [ref=e130]:
+            - listitem [ref=e131]:
+              - link "Facebook" [ref=e132] [cursor=pointer]:
+                - /url: https://www.facebook.com/howdensofficial/
+            - listitem [ref=e133]:
+              - link "Instagram" [ref=e134] [cursor=pointer]:
+                - /url: https://www.instagram.com/howdensjoinery/?hl=en
+            - listitem [ref=e135]:
+              - link "Pinterest" [ref=e136] [cursor=pointer]:
+                - /url: https://www.pinterest.co.uk/howdenskitchensandjoinery/
+            - listitem [ref=e137]:
+              - link "TikTok" [ref=e138] [cursor=pointer]:
+                - /url: https://www.tiktok.com/@howdensjoinery
+                - img "TikTok" [ref=e139]
+                - text: TikTok
+            - listitem [ref=e140]:
+              - link "YouTube" [ref=e141] [cursor=pointer]:
+                - /url: https://www.youtube.com/howdens
+        - button "Help" [ref=e143]:
+          - heading "Help" [level=3] [ref=e144]
+        - button "About Howdens" [ref=e146]:
+          - heading "About Howdens" [level=3] [ref=e147]
+        - button "More from us" [ref=e149]:
+          - heading "More from us" [level=3] [ref=e150]
+      - paragraph [ref=e151]: © Copyright 2026 Howden Joinery Ltd
+  - complementary "Find a Depot" [ref=e152]:
+    - button "Close" [ref=e154] [cursor=pointer]
+    - generic [ref=e156]:
+      - heading "Find a Depot" [level=3] [ref=e157]
+      - generic [ref=e158]:
+        - generic [ref=e159]:
+          - generic [ref=e160]: Enter a town or postcode
+          - textbox "Enter a town or postcode" [ref=e161]:
+            - /placeholder: Postcode, town, city or area
+          - button [ref=e162]
+        - list
+      - text: 
+      - paragraph [ref=e163]: Or
+      - button "Use current location" [ref=e164] [cursor=pointer]:
+        - generic [ref=e165]: Use current location
+      - link "A-Z of Depots" [ref=e167] [cursor=pointer]:
+        - /url: /find-a-depot/depot-a-z
