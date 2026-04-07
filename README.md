@@ -5,19 +5,19 @@
 ### Playwright Test
 Playwright assumes the role of user testing the application, and it inspects and interacts with the HTML DOM elements using browser engines like Chromium, WebKit, and Firefox
 
-System Requirements: 
+System Requirements. 
     > Node.js: latest 20.x, 22.x or 24.x.
     > Windows 11+, Windows Server 2019+ or Windows Subsystem for Linux (WSL).
     > macOS 14 (Ventura) or later.
     > Debian 12 / 13, Ubuntu 22.04 / 24.04 (x86-64 or arm64).
 
-VS Code:
+VS Code.
     > Install VS Code extension for Playwright
     > npm init playwright@latest
 
 Playwright codegen helps record workflows and automatically generate code for interactions. Codegen analyzes the rendered page and recommends the best locator, prioritizing role, text, and test id locators. 
 
-Running the Test
+Running the Test.
     > npx playwright test tests/how.example.spec.ts
     > npx playwright test tests/how.example.spec.ts --headed
     > npx playwright test tests/how.example.spec.ts --project=chromium
